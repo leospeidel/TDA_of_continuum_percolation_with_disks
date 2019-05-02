@@ -9,7 +9,7 @@ Topological data analysis of continuum percolation with disks.<br>
 Please make sure that Dionysus is installed, and change the path in the scripts to point to your version of Dionysus.<br>
 (see [here](https://www.mrzv.org/software/dionysus/) for how to install Dionysus)
 
-#Figs. 3 and 4
+# Figs. 3 and 4
 
 You can plot these figures by changing into the analysis/ directory and executing
 ./plot.sh
@@ -35,7 +35,7 @@ You can change the number of disks as well as the number of samples in the scrip
 ## Fig. 4
 
 Change directory to analysis/estimate\_constants/ and execute
-./estimate\_constants/run\_TDA.sh
+./run\_TDA.sh
 
 Precomputed values used in for the plot in the paper are under analysis/estimate\_constants/TDA_*/ <br>
 You can change the number of disks as well as the number of samples in the script.
